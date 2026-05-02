@@ -1,0 +1,7 @@
+var namespacecom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth =
+[
+    [ "AuthActivity", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_auth_activity.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_auth_activity" ],
+    [ "ForgotPasswordFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_forgot_password_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_forgot_password_fragment" ],
+    [ "LoginFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_login_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_login_fragment" ],
+    [ "RegisterFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_register_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1auth_1_1_register_fragment" ]
+];

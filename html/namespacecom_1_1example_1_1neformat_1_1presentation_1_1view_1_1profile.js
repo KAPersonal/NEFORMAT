@@ -1,0 +1,8 @@
+var namespacecom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile =
+[
+    [ "EditProfileFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_edit_profile_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_edit_profile_fragment" ],
+    [ "FavoritesFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_favorites_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_favorites_fragment" ],
+    [ "HomeFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_home_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_home_fragment" ],
+    [ "ImageDetailFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_image_detail_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_image_detail_fragment" ],
+    [ "ProfileFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_profile_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_profile_fragment" ]
+];

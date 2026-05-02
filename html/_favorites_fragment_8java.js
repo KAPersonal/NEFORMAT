@@ -1,0 +1,4 @@
+var _favorites_fragment_8java =
+[
+    [ "com.example.neformat.presentation.view.profile.FavoritesFragment", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_favorites_fragment.html", "classcom_1_1example_1_1neformat_1_1presentation_1_1view_1_1profile_1_1_favorites_fragment" ]
+];
